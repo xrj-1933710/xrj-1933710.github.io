@@ -1,0 +1,14 @@
+.image1{
+    border: outset 5px lightsalmon;
+    width: 220px;
+    height: 330px;
+    float: right
+}
+
+.rcorners2 {
+    border-radius: 25px;
+    border: 4px solid palevioletred;
+    padding: 20px; 
+    width: 200px;
+    height: 150px;  
+}
