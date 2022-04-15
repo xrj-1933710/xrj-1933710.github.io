@@ -1,0 +1,124 @@
+body{
+    background-image: url(dark_wood.png);
+}
+
+#Header{
+    width: 500px;
+    border: solid 8px black;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    text-align: center;
+    
+
+
+}
+
+h3{
+    color: #FFBC00;
+    font-size: 40px;
+    font-family: "Passion One";
+    margin-bottom: 0px;
+
+
+}
+
+p{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#Header h1{
+    font-size: 60px; font-family: "Passion One"; color: #FFBC00; font-weight: bold;
+
+}
+
+
+#LeftNav{
+    width: 400px;
+    border: solid 8px black;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    float: left;
+    text-align: center;
+    padding-bottom: 8px;
+
+
+}
+
+
+a{
+    color: white; font-weight: bold; font-size: 24px;
+
+}
+
+u1{
+    list-style-type: none;
+    padding-left: 0px;
+
+}
+
+#Content{
+    width: 700px;
+    border: solid 8px black;
+    padding: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+
+}
+
+#Footer{
+    border: solid 8px black;
+    text-align: center;
+
+
+}
+
+div{
+    background-color: #8E41D5;
+}
+
+/* Five new CSS styles*/
+
+#box{
+    border: groove 1em greenyellow;  
+    border-radius: 2em;
+    width: 200px;
+    height: 100px;
+    background-color: lightyellow;
+}
+
+#shadow{
+    text-shadow: 3px 3px;
+    color: cyan;
+    font-size: 18pt;
+    font-style: italic;
+    font-family: serif;
+}
+
+
+#grad {
+    height: 200px;
+    width: 400px;
+    background-image: linear-gradient(pink, lightblue);
+  }
+
+#grad1 {
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+    background-image: conic-gradient(purple, yellow, green, blue, lightsalmon);
+  }
+
+  p.test {
+    writing-mode: vertical-rl;
+    background-color: honeydew; 
+    color:darkorange;
+    font-style: oblique;
+    font-size: 24pt;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
