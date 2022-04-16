@@ -1,0 +1,49 @@
+
+body{
+    background-image: -webkit-repeating-radial-gradient(pink, gold, mediumslateblue);
+    font-size: 24pt;
+
+}
+
+
+h2{
+    font-size: 40pt;
+    font-family: 'Beau Rivage', cursive;
+    width: 500px;
+    border: 10px inset indigo;
+    padding: 15px;
+    background: papayawhip ;
+    background-clip: content-box;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    text-align: center;
+    
+}
+
+
+legend{    
+    font-size: 26pt;
+    font-family: 'Beau Rivage', cursive;
+    width: 500px;
+    border: 10px inset;
+    border-image: linear-gradient(slateblue, honeydew) 10;
+    padding: 15px;
+    background: peachpuff;
+    background-clip: content-box;
+
+}
+
+.form-control{
+    text-shadow: 1px 1px;
+    color:darkmagenta;
+    font-size: 18pt;
+}
+
+.col-sm-12{
+    text-decoration-line: underline;
+    text-decoration-color: darkslateblue; 
+
+}
+
+
